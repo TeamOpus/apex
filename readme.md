@@ -1,6 +1,6 @@
-# 🎵 Music Bot - Telegram Voice Chat Bot
+# 🎵   -  
 
-A feature-rich Telegram bot for playing music in voice chats, supporting YouTube, Spotify, and direct audio links with advanced queue management and playback controls.
+A feature-rich  for playing  , supporting YouTube, Spotify, and direct audio links with advanced queue management and playback controls.
 
 <!-- ![Bot Demo](demo.gif) *Example: Playing music in a voice chat*  -->
 
